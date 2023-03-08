@@ -7,8 +7,8 @@ import { Component } from '@angular/core';
         `p 
         {
             padding: 20px;
-            background-color: blue;
-            border: 1px solid red;
+            background-color: palegreen;
+            border: 1px solid green;
         }
         `
     ]
